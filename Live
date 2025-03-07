@@ -114,3 +114,5 @@ https://abdulmajeed-abdullah-enc.edgenextcdn.net/out/v1/b5759c5db43d4d10b382a4bc
 https://rashed-almajed-enc.edgenextcdn.net/out/v1/77b0946130344d1388e5cd34afdcb772/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264
 #EXTINF:-1 group-title="Shahid "محمد عبده",محمد عبده
 https://mohammed-abdou-enc.edgenextcdn.net/out/v1/3b57275cf54747cda4cda03ecf146f92/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264
+#EXTINF:-1 group-title="Shahid "رامز",رامز
+https://shls-live-ak.akamaized.net/out/v1/0ef83323c0374a1187c182645db2a45f/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264
