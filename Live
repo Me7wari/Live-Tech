@@ -80,6 +80,8 @@ https://shls-live-enc.edgenextcdn.net/out/v1/b06a89a463764d3688cda337d40dc5bf/in
 https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264
 #EXTINF:-1 group-title="Shahid "مسرح مصر",مسرح مصر
 https://shls-live-enc.edgenextcdn.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264
+#EXTINF:-1 group-title="Shahid "رمضان معانا مسلسلات",رمضان معانا مسلسلات
+https://shls-live-ak.akamaized.net/out/v1/9747e20a05794a14b0cfccd7c621dd00/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264
 #EXTINF:-1 group-title="Shahid "سيلفي",سيلفي
 https://shls-live-enc.edgenextcdn.net/out/v1/2a0f4768f7fa42ed813674628b487e95/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264
 #EXTINF:-1 group-title="Shahid"العاصوف",العاصوف
